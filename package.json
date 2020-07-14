@@ -1,11 +1,11 @@
 {
   "dependencies": {
     "@commitlint/cli": "^9.1.1",
-    "@commitlint/config-conventional": "^9.1.1",
-    "husky": "^4.2.5"
+    "@commitlint/config-conventional": "^9.1.1"
   },
   "devDependencies": {
-    "cz-conventional-changelog": "^3.2.0"
+    "cz-conventional-changelog": "^3.2.0",
+    "husky": "^4.2.5"
   },
   "config": {
     "commitizen": {
